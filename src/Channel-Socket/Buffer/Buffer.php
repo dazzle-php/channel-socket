@@ -1,6 +1,6 @@
 <?php
 
-namespace Dazzle\Channel\Socket\Socket\Buffer;
+namespace Dazzle\ChannelSocket\Buffer;
 
 /**
  * @codeCoverageIgnore

@@ -1,10 +1,10 @@
 <?php
 
-namespace Dazzle\Channel\Socket\Socket;
+namespace Dazzle\ChannelSocket;
 
-use Dazzle\Channel\Socket\Socket\Buffer\Buffer;
-use Dazzle\Channel\Socket\Socket\Connection\Connection;
-use Dazzle\Channel\Socket\Socket\Connection\ConnectionPool;
+use Dazzle\ChannelSocket\Buffer\Buffer;
+use Dazzle\ChannelSocket\Connection\Connection;
+use Dazzle\ChannelSocket\Connection\ConnectionPool;
 use Dazzle\Channel\Model\ModelInterface;
 use Dazzle\Channel\Channel;
 use Dazzle\Event\BaseEventEmitter;
